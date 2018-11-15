@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsApplication123/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication123/Form1.vb))
+* [XtraReport1.cs](./CS/WindowsApplication123/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/WindowsApplication123/XtraReport1.vb))
+<!-- default file list end -->
 # How to connect to PostgreSQL and pass a parameter to a DataSet with XtraReports
 
 
